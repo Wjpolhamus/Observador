@@ -1,4 +1,5 @@
 **Observador**
+---
 
 Observador: The Game. A game where there is no urgency, the player can enjoy the beauty of the world around them
 while not being forced to do anything. Or, if you enjoy having something to work towards, you can find missions
