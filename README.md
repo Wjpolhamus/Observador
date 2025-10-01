@@ -1,7 +1,10 @@
 **Observador**
 ---
 
-Observador: The Game. A game where there is no urgency, the player can enjoy the beauty of the world around them
+Observador: The Game.
+A peaceful exploration game about slowing down and appreciating the world around you.
+
+the player can enjoy the beauty of the world around them
 while not being forced to do anything. Or, if you enjoy having something to work towards, you can find missions
 that reward you for completing, and progressing better. While there will be no need to follow the story, the option
 will always be there, and youll be able to do cool things if you do! Someone who doesn't want to follow that
